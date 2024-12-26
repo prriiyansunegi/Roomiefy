@@ -21,7 +21,7 @@
    */
 
   --oxford-blue_60: hsla(224, 34%, 13%, 0.6);
-  --green-pigment: hsl(142, 84%, 44%);
+  --green-pigment: hsl(340, 83%, 44%);
   --oxford-blue: hsl(224, 34%, 13%);
   --maximum-red: hsl(0, 72%, 51%);
   --eerie-black: hsl(0, 0%, 9%);
@@ -358,7 +358,7 @@ body {
 }
 
 .hero-title {
-  max-width: 16ch;
+  max-width: 21ch;
   margin-inline: auto;
   color: var(--white);
   line-height: 1.5;
