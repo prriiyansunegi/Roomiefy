@@ -191,6 +191,13 @@ body {
   font-weight: var(--fw-500);
   max-width: max-content;
   padding: var(--padding, 12px 28px);
+  border: none;              /* Remove any default border */
+  border-radius: 15px;       /* Curved corners (adjust the value for more or less curvature) */
+  font-size: 16px;           /* Font size */
+  text-align: center;        /* Center the text */
+  text-decoration: none;     /* Remove underline */
+  display: inline-block;     /* Ensure button behaves as inline-block */
+  transition: background-color 0.3s ease; /* Smooth transition effect on hover */
 }
 
 .btn:is(:hover, :focus) { background-color: var(--sea-green); }
