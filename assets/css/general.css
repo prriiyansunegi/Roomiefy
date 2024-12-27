@@ -186,9 +186,9 @@ body {
 
 .btn-outline:hover,
 .btn-ouline:active {
-  background-color: #000000;
+  background-color: #ffffff;
   /* Trick to add border inside */
-  box-shadow: 0 0 0 3px #000000;
+  box-shadow: 0 0 0 3px #ffffff;
 }
 
 .btn-form {
