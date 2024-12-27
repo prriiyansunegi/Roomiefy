@@ -6,7 +6,7 @@
   <br />
   <br />
 
-  <h2 align="center">Realvine - Real estate website</h2>
+  <h2 align="center">Roomiefy - Real estate website</h2>
 
   Roomiefy is a fully responsive real estate website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
